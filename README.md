@@ -1,4 +1,4 @@
-# intro-redes-tp-grupal
+# TP Redes
 
 ## Requisitos
 - Python 3.10
